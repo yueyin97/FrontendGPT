@@ -10,6 +10,8 @@ The **OpenAI Frontend Generator** is a powerful tool that utilizes the OpenAI AP
 
 - **Real-time Preview** 
 
+- **GPT-4 supported** 
+
 ## Installation
 
 To run the OpenAI Frontend Generator on your local machine, follow these steps:
