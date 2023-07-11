@@ -1,4 +1,4 @@
-# OpenAI Frontend Generator
+# FrontendGPT - Generate Frontend Code with One Click
 
 The **OpenAI Frontend Generator** is a powerful tool that utilizes the OpenAI API to generate HTML, CSS, and JavaScript code. It provides real-time code revision and preview functionality, allowing you to easily experiment with different code variations and see the results instantly. The project is written in React, making it highly flexible and customizable.
 
